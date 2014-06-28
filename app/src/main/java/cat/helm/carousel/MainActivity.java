@@ -1,11 +1,10 @@
-package com.helm.carousel;
+package cat.helm.carousel;
 
 import android.app.Activity;
 import android.os.Bundle;
 import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
 
-import net.leolink.android.simpleinfinitecarousel.R;
 
 public class MainActivity extends Activity {
     private RecyclerView mRecyclerView;

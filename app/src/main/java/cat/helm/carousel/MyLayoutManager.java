@@ -1,4 +1,4 @@
-package com.helm.carousel;
+package cat.helm.carousel;
 
 import android.support.v7.widget.RecyclerView;
 

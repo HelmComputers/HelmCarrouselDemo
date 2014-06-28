@@ -1,6 +1,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    package="net.leolink.android.simpleinfinitecarousel">
+    package="cat.helm.carousel">
 
     <uses-sdk
         tools:node="replace" />
@@ -10,7 +10,7 @@
         android:icon="@drawable/ic_launcher"
         android:theme="@style/AppTheme">
 
-        <activity android:name="com.helm.carousel.MainActivity">
+        <activity android:name="cat.helm.carousel.MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
